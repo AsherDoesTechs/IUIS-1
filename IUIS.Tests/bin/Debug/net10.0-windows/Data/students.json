@@ -1,0 +1,60 @@
+[
+  {
+    "StudentNumber": "20230001",
+    "YearLevel": "2nd Year",
+    "Program": "Computer Science",
+    "EnrollmentDate": "2023-06-15T00:00:00",
+    "Status": "Active",
+    "EnrolledCourses": [
+      "CS101",
+      "MATH201",
+      "ENG102"
+    ],
+    "Id": "student-001",
+    "FirstName": "Mina",
+    "LastName": "Lopez",
+    "DateOfBirth": "2003-04-12T00:00:00",
+    "Gender": "Female",
+    "Address": "Block 4, Greenview",
+    "Email": "mina.lopez@iuis.edu",
+    "PhoneNumber": "09170001111",
+    "FullName": "Mina Lopez"
+  },
+  {
+    "StudentNumber": "20230002",
+    "YearLevel": "3rd Year",
+    "Program": "Information Systems",
+    "EnrollmentDate": "2022-06-01T00:00:00",
+    "Status": "Active",
+    "EnrolledCourses": [
+      "CS101",
+      "BUS202"
+    ],
+    "Id": "student-002",
+    "FirstName": "Jace",
+    "LastName": "Rivera",
+    "DateOfBirth": "2002-08-20T00:00:00",
+    "Gender": "Male",
+    "Address": "Lot 8, Pine Street",
+    "Email": "jace.rivera@iuis.edu",
+    "PhoneNumber": "09170002222",
+    "FullName": "Jace Rivera"
+  },
+  {
+    "StudentNumber": "20240003",
+    "YearLevel": "1st Year",
+    "Program": "General Studies",
+    "EnrollmentDate": "0001-01-01T00:00:00",
+    "Status": "Active",
+    "EnrolledCourses": [],
+    "Id": "d4902171-2ae5-426d-a50a-c4340f3f7212",
+    "FirstName": "Justin",
+    "LastName": "Lirio",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Gender": null,
+    "Address": null,
+    "Email": null,
+    "PhoneNumber": null,
+    "FullName": "Justin Lirio"
+  }
+]

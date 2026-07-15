@@ -1,0 +1,40 @@
+[
+  {
+    "Id": "teacher-001",
+    "FirstName": "Rosa",
+    "LastName": "Dela Cruz",
+    "DateOfBirth": "1980-01-14T00:00:00",
+    "Gender": "Female",
+    "Address": "Sunset Village",
+    "Email": "rosa.delacruz@iuis.edu",
+    "PhoneNumber": "09170003333",
+    "EmployeeNumber": "EMP1001",
+    "Department": "Computer Studies",
+    "Position": "Professor",
+    "DateHired": "2015-08-01T00:00:00",
+    "Salary": 52000,
+    "IsActive": true,
+    "Specialization": "Software Engineering",
+    "AssignedSubjects": ["CS101", "CS201"],
+    "AcademicRank": "Professor"
+  },
+  {
+    "Id": "teacher-002",
+    "FirstName": "Mateo",
+    "LastName": "Santos",
+    "DateOfBirth": "1987-03-03T00:00:00",
+    "Gender": "Male",
+    "Address": "North Hills",
+    "Email": "mateo.santos@iuis.edu",
+    "PhoneNumber": "09170004444",
+    "EmployeeNumber": "EMP1002",
+    "Department": "Mathematics",
+    "Position": "Instructor",
+    "DateHired": "2019-01-10T00:00:00",
+    "Salary": 43000,
+    "IsActive": true,
+    "Specialization": "Applied Mathematics",
+    "AssignedSubjects": ["MATH201"],
+    "AcademicRank": "Instructor"
+  }
+]

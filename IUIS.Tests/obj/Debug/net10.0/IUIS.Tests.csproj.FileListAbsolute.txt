@@ -1,0 +1,5 @@
+C:\Users\justi\OneDrive\Desktop\IUIS-main\IUIS.Tests\obj\Debug\net10.0\IUIS.Tests.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Desktop\IUIS-main\IUIS.Tests\obj\Debug\net10.0\IUIS.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Desktop\IUIS-main\IUIS.Tests\obj\Debug\net10.0\IUIS.Tests.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Desktop\IUIS-main\IUIS.Tests\obj\Debug\net10.0\IUIS.Tests.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Desktop\IUIS-main\IUIS.Tests\obj\Debug\net10.0\IUIS.Tests.csproj.CoreCompileInputs.cache

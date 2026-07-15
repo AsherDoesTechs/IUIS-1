@@ -1,0 +1,11 @@
+﻿[
+  {
+    "Id": "USR001",
+    "Username": "admin",
+    "PasswordHash": "admin",
+    "Email": "admin@iuis.edu",
+    "Role": "Admin",
+    "IsEnabled": true,
+    "LastLogin": null
+  }
+]

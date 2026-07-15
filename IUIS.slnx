@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IUIS.csproj" />
+  <Project Path="IUIS.Tests/IUIS.Tests.csproj" />
+</Solution>

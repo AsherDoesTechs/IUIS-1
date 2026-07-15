@@ -1,0 +1,81 @@
+C:\Users\Asher Basco\source\repos\IUIS\obj\Debug\net10.0-windows\IUIS.Form1.resources
+C:\Users\Asher Basco\source\repos\IUIS\obj\Debug\net10.0-windows\IUIS.Forms.Admin.frmManageStudents.resources
+C:\Users\Asher Basco\source\repos\IUIS\obj\Debug\net10.0-windows\IUIS.csproj.GenerateResource.cache
+C:\Users\Asher Basco\source\repos\IUIS\obj\Debug\net10.0-windows\IUIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Basco\source\repos\IUIS\obj\Debug\net10.0-windows\IUIS.AssemblyInfoInputs.cache
+C:\Users\Asher Basco\source\repos\IUIS\obj\Debug\net10.0-windows\IUIS.AssemblyInfo.cs
+C:\Users\Asher Basco\source\repos\IUIS\obj\Debug\net10.0-windows\IUIS.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.Form1.resources
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.Forms.Admin.frmManageStudents.resources
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\admins.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\appointments.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\attendance.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\books.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\borrowings.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\clearances.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\consultations.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\counseling.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\courses.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\employees.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\enrollments.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\grades.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\medical_records.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\payments.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\scholarships.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\students.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\subjects.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\teachers.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\users.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\Data\violations.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\IUIS.exe
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\IUIS.deps.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\IUIS.runtimeconfig.json
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\IUIS.dll
+C:\Users\justi\OneDrive\Desktop\IUIS-main\bin\Debug\net10.0-windows\IUIS.pdb
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.dll
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\refint\IUIS.dll
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.pdb
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\IUIS.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Desktop\IUIS-main\obj\Debug\net10.0-windows\ref\IUIS.dll
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\admins.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\appointments.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\attendance.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\books.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\borrowings.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\clearances.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\consultations.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\counseling.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\courses.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\employees.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\enrollments.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\grades.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\medical_records.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\payments.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\scholarships.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\students.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\subjects.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\teachers.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\users.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\Data\violations.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\IUIS.exe
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\IUIS.deps.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\IUIS.runtimeconfig.json
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\IUIS.dll
+C:\Users\Asher Basco\Downloads\IUIS-main\bin\Debug\net10.0-windows\IUIS.pdb
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.Form1.resources
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.Forms.Admin.frmManageStudents.resources
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.csproj.GenerateResource.cache
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.AssemblyInfoInputs.cache
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.AssemblyInfo.cs
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.csproj.CoreCompileInputs.cache
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.dll
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\refint\IUIS.dll
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.pdb
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.genruntimeconfig.cache
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\ref\IUIS.dll

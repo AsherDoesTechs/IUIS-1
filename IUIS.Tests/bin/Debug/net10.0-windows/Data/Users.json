@@ -1,0 +1,26 @@
+[
+  {
+    "UserId": "user-admin-001",
+    "Username": "admin",
+    "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/0y0p0RdZ8QmADE=",
+    "Role": "Admin",
+    "IsEnabled": true,
+    "LastLogin": "2026-07-15T22:37:55.0892733+08:00"
+  },
+  {
+    "UserId": "user-student-001",
+    "Username": "student",
+    "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/0y0p0RdZ8QmADE=",
+    "Role": "Student",
+    "IsEnabled": true,
+    "LastLogin": "2026-07-15T00:00:00"
+  },
+  {
+    "UserId": "user-teacher-001",
+    "Username": "teacher",
+    "PasswordHash": "jGl25bVBBBW96Qi9Te4V37Fnqchz/0y0p0RdZ8QmADE=",
+    "Role": "Teacher",
+    "IsEnabled": true,
+    "LastLogin": "2026-07-15T00:00:00"
+  }
+]

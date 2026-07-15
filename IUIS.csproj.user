@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\frmAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Dialogs\frmEditGradeDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Shared\frmDataViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Shared\frmProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Student\frmManageStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Teacher\frmTeacherDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucDashboardCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucDataGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucReportViewer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\usercontrols\\ucreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:usercontrols\\ucreportviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\usercontrols\\ucchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:usercontrols\\ucchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\usercontrols\\ucdatagrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:usercontrols\\ucdatagrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\usercontrols\\ucsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:usercontrols\\ucsidebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\usercontrols\\ucdashboardcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:usercontrols\\ucdashboardcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\forms\\shared\\frmdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:forms\\shared\\frmdataviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\forms\\shared\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:forms\\shared\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\forms\\dialogs\\frmeditgradedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:forms\\dialogs\\frmeditgradedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\forms\\teacher\\frmteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:forms\\teacher\\frmteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\forms\\student\\frmmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:forms\\student\\frmmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|c:\\users\\asher basco\\source\\repos\\iuis\\forms\\student\\frmmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{241C07C2-39B3-45B7-AFA6-C99FCFFBC655}|IUIS.csproj|solutionrelative:forms\\student\\frmmanagestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucReportViewer.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucReportViewer.cs",
+              "RelativeDocumentMoniker": "UserControls\\ucReportViewer.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucReportViewer.cs",
+              "RelativeToolTip": "UserControls\\ucReportViewer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:00:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucChart.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucChart.cs",
+              "RelativeDocumentMoniker": "UserControls\\ucChart.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucChart.cs",
+              "RelativeToolTip": "UserControls\\ucChart.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T13:00:06.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucDataGrid.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucDataGrid.cs",
+              "RelativeDocumentMoniker": "UserControls\\ucDataGrid.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucDataGrid.cs",
+              "RelativeToolTip": "UserControls\\ucDataGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:59:34.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucSidebar.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucSidebar.cs",
+              "RelativeDocumentMoniker": "UserControls\\ucSidebar.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucSidebar.cs",
+              "RelativeToolTip": "UserControls\\ucSidebar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:59:15.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucDashboardCard.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucDashboardCard.cs",
+              "RelativeDocumentMoniker": "UserControls\\ucDashboardCard.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\UserControls\\ucDashboardCard.cs",
+              "RelativeToolTip": "UserControls\\ucDashboardCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:58:41.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDataViewer.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Shared\\frmDataViewer.cs",
+              "RelativeDocumentMoniker": "Forms\\Shared\\frmDataViewer.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Shared\\frmDataViewer.cs",
+              "RelativeToolTip": "Forms\\Shared\\frmDataViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:58:05.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:21:04.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Shared\\frmProfile.cs",
+              "RelativeDocumentMoniker": "Forms\\Shared\\frmProfile.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Shared\\frmProfile.cs",
+              "RelativeToolTip": "Forms\\Shared\\frmProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:57:54.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmEditGradeDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Dialogs\\frmEditGradeDialog.cs",
+              "RelativeDocumentMoniker": "Forms\\Dialogs\\frmEditGradeDialog.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Dialogs\\frmEditGradeDialog.cs",
+              "RelativeToolTip": "Forms\\Dialogs\\frmEditGradeDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:56:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTeacherDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Teacher\\frmTeacherDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Teacher\\frmTeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Teacher\\frmTeacherDashboard.cs",
+              "RelativeToolTip": "Forms\\Teacher\\frmTeacherDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:56:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmManageStudents.cs",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Student\\frmManageStudents.cs",
+              "RelativeDocumentMoniker": "Forms\\Student\\frmManageStudents.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Student\\frmManageStudents.cs",
+              "RelativeToolTip": "Forms\\Student\\frmManageStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:55:13.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmManageStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Student\\frmManageStudents.cs",
+              "RelativeDocumentMoniker": "Forms\\Student\\frmManageStudents.cs",
+              "ToolTip": "C:\\Users\\Asher Basco\\source\\repos\\IUIS\\Forms\\Student\\frmManageStudents.cs [Design]",
+              "RelativeToolTip": "Forms\\Student\\frmManageStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T12:55:05.612Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
