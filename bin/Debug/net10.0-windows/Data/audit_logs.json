@@ -1,0 +1,35 @@
+[
+  {
+    "AuditLogId": "3fe5936c1bd542bc8dbec98fb6813a71",
+    "OccurredAt": "2026-07-15T23:43:53.422603+08:00",
+    "Username": "System",
+    "Role": "System",
+    "Action": "Updated",
+    "Module": "User",
+    "RecordId": "user-student-001",
+    "Description": "Updated User record.",
+    "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "6ccf11d38573463eada572f34df081dd",
+    "OccurredAt": "2026-07-15T23:45:14.891069+08:00",
+    "Username": "System",
+    "Role": "System",
+    "Action": "Updated",
+    "Module": "User",
+    "RecordId": "user-admin-001",
+    "Description": "Updated User record.",
+    "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "34d19ad48e064f60875c008ceb1903dd",
+    "OccurredAt": "2026-07-15T23:45:37.9127057+08:00",
+    "Username": "System",
+    "Role": "System",
+    "Action": "Updated",
+    "Module": "User",
+    "RecordId": "user-teacher-001",
+    "Description": "Updated User record.",
+    "MachineName": "DESKTOP-796C6AT"
+  }
+]

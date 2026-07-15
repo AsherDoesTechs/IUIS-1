@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj": {}
+    "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.csproj": {
+    "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.csproj",
+        "projectUniqueName": "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.csproj",
         "projectName": "IUIS",
-        "projectPath": "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.csproj",
-        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\obj\\",
+        "projectPath": "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.csproj",
+        "packagesPath": "C:\\Users\\Asher Basco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asher Basco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -360,17 +360,17 @@
         }
       }
     },
-    "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj": {
+    "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj",
         "projectName": "IUIS.Tests",
-        "projectPath": "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj",
-        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.Tests\\IUIS.Tests.csproj",
+        "packagesPath": "C:\\Users\\Asher Basco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asher Basco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -385,8 +385,8 @@
             "framework": "net10.0-windows7.0",
             "targetAlias": "net10.0-windows",
             "projectReferences": {
-              "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.csproj": {
-                "projectPath": "C:\\Users\\justi\\OneDrive\\Desktop\\IUIS-main\\IUIS.csproj"
+              "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.csproj": {
+                "projectPath": "C:\\Users\\Asher Basco\\Downloads\\IUIS-main\\IUIS.csproj"
               }
             }
           }
@@ -444,7 +444,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
