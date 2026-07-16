@@ -18,5 +18,22 @@
     "Email": "jace.rivera@iuis.edu",
     "PhoneNumber": "09170002222",
     "FullName": "Jace Rivera"
+  },
+  {
+    "StudentNumber": "STU-2026-20230003",
+    "YearLevel": "1st Year",
+    "Program": "General Studies",
+    "EnrollmentDate": "0001-01-01T00:00:00",
+    "Status": "Active",
+    "EnrolledCourses": [],
+    "Id": "2e1c889f-91c4-423f-bd65-6003581996fd",
+    "FirstName": "John",
+    "LastName": "Dela Cruz",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Gender": null,
+    "Address": null,
+    "Email": null,
+    "PhoneNumber": null,
+    "FullName": "John Dela Cruz"
   }
 ]

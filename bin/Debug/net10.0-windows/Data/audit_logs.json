@@ -31,5 +31,71 @@
     "RecordId": "user-teacher-001",
     "Description": "Updated User record.",
     "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "645a291b911e42a6999cfb2f989a928f",
+    "OccurredAt": "2026-07-16T21:45:06.9063334+08:00",
+    "Username": "System",
+    "Role": "System",
+    "Action": "Updated",
+    "Module": "User",
+    "RecordId": "user-admin-001",
+    "Description": "Updated User record.",
+    "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "c21ae550a30a4973a601a196a7b70d45",
+    "OccurredAt": "2026-07-16T21:45:26.7456974+08:00",
+    "Username": "admin",
+    "Role": "Admin",
+    "Action": "Added",
+    "Module": "Student",
+    "RecordId": "2e1c889f-91c4-423f-bd65-6003581996fd",
+    "Description": "Added Student record.",
+    "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "8a97f0266ffe4978a1cc704797e85dcf",
+    "OccurredAt": "2026-07-16T21:45:54.0028385+08:00",
+    "Username": "admin",
+    "Role": "Admin",
+    "Action": "Added",
+    "Module": "Teacher",
+    "RecordId": "98c6e439-2680-4497-955c-7572f9dabb59",
+    "Description": "Added Teacher record.",
+    "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "983e4f82152a4cb1806f932a71ad2688",
+    "OccurredAt": "2026-07-16T21:45:59.5321697+08:00",
+    "Username": "admin",
+    "Role": "Admin",
+    "Action": "Deleted",
+    "Module": "Teacher",
+    "RecordId": "teacher-002",
+    "Description": "Deleted Teacher record.",
+    "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "417cb7e9d7634fe89adc80bce00b4fc9",
+    "OccurredAt": "2026-07-16T21:46:14.0888477+08:00",
+    "Username": "System",
+    "Role": "System",
+    "Action": "Updated",
+    "Module": "User",
+    "RecordId": "user-teacher-001",
+    "Description": "Updated User record.",
+    "MachineName": "DESKTOP-796C6AT"
+  },
+  {
+    "AuditLogId": "26ffdcd3b87e4827982934dc6af1d7a3",
+    "OccurredAt": "2026-07-16T21:46:33.9919461+08:00",
+    "Username": "System",
+    "Role": "System",
+    "Action": "Updated",
+    "Module": "User",
+    "RecordId": "user-student-001",
+    "Description": "Updated User record.",
+    "MachineName": "DESKTOP-796C6AT"
   }
 ]

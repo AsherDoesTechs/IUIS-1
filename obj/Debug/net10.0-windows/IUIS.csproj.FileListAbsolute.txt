@@ -79,3 +79,4 @@ C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\refint\IUIS.d
 C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.pdb
 C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.genruntimeconfig.cache
 C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\ref\IUIS.dll
+C:\Users\Asher Basco\Downloads\IUIS-main\obj\Debug\net10.0-windows\IUIS.sourcelink.json
